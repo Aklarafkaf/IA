@@ -54,4 +54,9 @@ if($a-eq "info") {
 echo "IA version | 1.0 DE Win"
 Get-Date
 }
+#Init IA
+if($a-eq "Init IA -C") {
+cd data/
+Import-Module .\IA-c.ps1
+}
 }
