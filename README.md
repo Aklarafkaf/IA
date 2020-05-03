@@ -1,5 +1,5 @@
 # IA
-IA ist ein Projekt das Versucht Die Linux Konsole Nutzer Freundlicher nach zu Programmieren 
+IA ist ein Projekt, das versucht, die Linux Konsole nutzerfreundlicher nachzuprogrammieren 
 ## Ziele
 
  - Nutzer Freundlichkeit
